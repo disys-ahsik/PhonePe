@@ -50,7 +50,7 @@ def paymentconfirmation():
         if j=='yes':
             menu()
         else:
-            print("""    Bye            """)
+            print("""    Thank You            """)
             sys.exit()      
 
             
